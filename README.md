@@ -1,2 +1,2 @@
 # Orkut-initial-page
-Mini project made whith:  HTML, CSS &amp; JAVASCRIPT
+Clone da tela de login do velho e querido Orkut
